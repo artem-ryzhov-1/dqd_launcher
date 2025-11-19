@@ -4,7 +4,7 @@
 
 ## 🚀 Run in Google Colab
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/artem-ryzhov-1/dqd_launcher/blob/main/run_in_colab.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/artem-ryzhov-1/dqd_launcher/blob/main/run_in_colab.ipynb?nocache=123)
 
 > No installation required. Just click the button and the notebook will open in your browser.
 
